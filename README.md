@@ -1,2 +1,0 @@
-# test-sbt
-test-sbt
